@@ -1,4 +1,12 @@
-### Hi there 👋
+
+<h1 align="center"> hello, i'm Alana Cassimiro 👩🏽‍💻 </h1>
+
+
+🌱 I’m currently learning: `.html`, `css`, `.js`
+
+
+### about myself:
+😄 I'm 23 years old., and I live in Paraíba, BR.
 
 <!--
 **AlanaCassimiro/AlanaCassimiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
