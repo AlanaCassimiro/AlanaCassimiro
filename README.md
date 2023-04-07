@@ -2,7 +2,7 @@
 <h1 align="center"> hello, i'm Alana Cassimiro 👩🏽‍💻 </h1>
 
 
-🌱 I’m currently learning: `.html`, `css`, `.js`
+🌱 I’m currently learning: `.html`, `.css`, `.js`
 
 
 ### about myself:
